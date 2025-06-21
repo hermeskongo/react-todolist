@@ -1,0 +1,13 @@
+.title {
+    margin-bottom: 12px;
+}
+.container {
+    margin-block: 12px;
+    display: flex;
+    flex-direction: column;
+}
+.emptyState {
+    font-size: 1.3rem;
+    font-weight: 800;
+    text-align: center;
+}
